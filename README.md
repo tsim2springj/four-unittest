@@ -1,6 +1,6 @@
 <h1 align="center"> 🚀 four.meme 交易量与秒抢 Bot 🚀 </h1>
 
-**four.meme volume bot / fourmeme sniper / fourmeme bundler / BNB Chain 捆绑器 / meme token 捆绑 / 秒抢工具 / 多钱包造量器**
+**four.meme 造量 Bot / fourmeme 秒抢器 / fourmeme 捆币器 / BNB 链捆绑器 / meme 代币捆绑 / 秒抢工具 / 多钱包造量器（俗称：多钱包拉盘器**
 
 一套专为 **four.meme 生态** 打造的 **开源 Rust 驱动自动化套件** — 这是 BNB 链 meme 代币的终极发射台助手。  
 在同一界面内创建 **真实、自然的交易量**、监控 **钱包与合约**，并 **自动化代币从上线到流动性的每一步**。

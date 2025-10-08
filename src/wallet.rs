@@ -11,4 +11,3 @@ pub async fn run(action: &str) -> Result<(), Box<dyn Error>> {
     }
     Ok(())
 }
-//wallet

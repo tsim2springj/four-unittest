@@ -1,1 +1,2 @@
 Update device matrix
+List rotation schedule

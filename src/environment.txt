@@ -4,3 +4,4 @@ Update confusion matrix
 Record license info
 Draft staging plan
 Plan oncall shifts
+Evaluate automation options

@@ -1,3 +1,4 @@
 Note press mentions
 Check dependencies for updates
 Update confusion matrix
+Record license info

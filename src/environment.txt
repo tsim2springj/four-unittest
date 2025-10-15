@@ -3,3 +3,4 @@ Record auth logs
 List banking contacts
 Summarize product goals
 Update kill switch
+Note configuration changes

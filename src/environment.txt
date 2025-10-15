@@ -7,3 +7,4 @@ Record media queries
 Record feedback cycle
 Update contact list
 Note DNS changes
+Summarize caching results

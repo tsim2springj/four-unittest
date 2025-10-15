@@ -8,3 +8,4 @@ Evaluate automation options
 Log mitigation steps
 Review WAF settings
 Update logging sinks
+Note currency exposure

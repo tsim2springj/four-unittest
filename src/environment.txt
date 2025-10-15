@@ -1,2 +1,3 @@
 Summarize brand sentiment
 Write installation notes
+Review monitoring setup

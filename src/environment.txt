@@ -3,3 +3,4 @@ Log strategic initiatives
 Review cost savings
 Write installation notes
 Summarize feedback loops
+Note content review

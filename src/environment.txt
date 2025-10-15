@@ -2,3 +2,4 @@ Summarize brand sentiment
 Write installation notes
 Review monitoring setup
 Write summary report
+Adjust retry logic

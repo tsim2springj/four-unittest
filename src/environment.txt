@@ -9,3 +9,4 @@ Prepare roadmap for Q1
 Update style guide
 Update hedging plan
 Review billing items
+Summarize product goals

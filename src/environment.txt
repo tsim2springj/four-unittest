@@ -5,3 +5,4 @@ Record license info
 Draft staging plan
 Plan oncall shifts
 Evaluate automation options
+Log mitigation steps

@@ -3,3 +3,4 @@ Update migration scripts
 Update rollback notes
 Update FAQ section
 Summarize bug triage
+Record media queries

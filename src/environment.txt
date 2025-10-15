@@ -1,1 +1,2 @@
 Evaluate third-party libs
+Note customer churn

@@ -1,3 +1,1 @@
-Note dataset sources
-Note follow-up actions
-Summarize deployment tests
+List booth designs

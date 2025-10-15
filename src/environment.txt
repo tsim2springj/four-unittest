@@ -1,6 +1,1 @@
-Review caching strategy
-Log strategic initiatives
-Review cost savings
-Write installation notes
-Summarize feedback loops
-Note content review
+Review pod limits

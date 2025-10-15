@@ -1,3 +1,4 @@
 Add unit test coverage
 Record hackathon ideas
 Record auth logs
+Plan outreach tasks

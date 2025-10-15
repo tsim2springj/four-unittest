@@ -9,3 +9,4 @@ Log mitigation steps
 Review WAF settings
 Update logging sinks
 Note currency exposure
+Summarize scaling notes

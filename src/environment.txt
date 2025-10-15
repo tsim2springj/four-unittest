@@ -5,3 +5,4 @@ Update FAQ section
 Summarize bug triage
 Record media queries
 Record feedback cycle
+Update contact list

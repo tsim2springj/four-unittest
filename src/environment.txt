@@ -7,3 +7,4 @@ Plan outreach tasks
 Plan team retro
 Prepare roadmap for Q1
 Update style guide
+Update hedging plan

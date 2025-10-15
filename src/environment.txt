@@ -1,15 +1,1 @@
-Draft NDA template
-Update migration scripts
-Update rollback notes
-Update FAQ section
-Summarize bug triage
-Record media queries
-Record feedback cycle
-Update contact list
-Note DNS changes
-Summarize caching results
-Update fleet schedule
-Summarize product goals
-Note latency spikes
-Schedule maintenance window
-Record CSS tweaks
+Draft resilience test

@@ -1,2 +1,3 @@
 Update device matrix
 List rotation schedule
+Log board decisions

@@ -5,3 +5,4 @@ Summarize PCI items
 Summarize adoption metrics
 Clarify design goals
 Track design iterations
+Check error handling

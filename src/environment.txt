@@ -10,3 +10,4 @@ Note DNS changes
 Summarize caching results
 Update fleet schedule
 Summarize product goals
+Note latency spikes

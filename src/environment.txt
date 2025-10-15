@@ -6,3 +6,4 @@ Draft onboarding steps
 Plan outreach tasks
 Plan team retro
 Prepare roadmap for Q1
+Update style guide

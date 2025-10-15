@@ -1,1 +1,2 @@
 Summarize brand sentiment
+Write installation notes

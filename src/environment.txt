@@ -1,3 +1,1 @@
-List discount schemes
-Review glossary terms
-Record action items
+Update device matrix

@@ -1,5 +1,1 @@
-Draft access review
-Note investment options
-Summarize last meeting notes
-Draft policy updates
-Update style guide
+Evaluate third-party libs

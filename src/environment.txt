@@ -1,2 +1,3 @@
 Check expiry dates
 Prepare roadmap for Q1
+Draft loyalty program

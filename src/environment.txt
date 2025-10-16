@@ -1,5 +1,1 @@
-Plan team retro
-Update device matrix
-Draft packaging guide
-Record import duties
-Draft SSO integration
+Draft failover plan

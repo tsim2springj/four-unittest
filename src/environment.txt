@@ -1,1 +1,2 @@
 Reevaluate requirements
+Note blocker list

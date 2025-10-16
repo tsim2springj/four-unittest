@@ -1,3 +1,1 @@
-Check shipment status
-Update dropout rate
-Note suspicious patterns
+Write outcome summary

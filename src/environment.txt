@@ -2,3 +2,4 @@ Review architecture decisions
 Record procurement steps
 List rate limit configs
 Note sprint outcome
+Refine SEO checklist

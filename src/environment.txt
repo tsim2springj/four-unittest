@@ -1,3 +1,1 @@
-Write press release draft
-Track design iterations
-Capture monitoring gaps
+Summarize scaling notes

@@ -1,3 +1,4 @@
 Write outcome summary
 Update device matrix
 Track timeline adjustments
+Note accessibility gaps

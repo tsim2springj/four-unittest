@@ -17,3 +17,4 @@ Note legal risks
 Verify API endpoints
 Draft SSO integration
 Summarize quota usage
+Summarize exec summary

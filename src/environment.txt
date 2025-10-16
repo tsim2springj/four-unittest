@@ -3,3 +3,4 @@ Note blocker list
 Record HR initiatives
 Draft celebration notes
 Draft precision notes
+Check monitoring alerts

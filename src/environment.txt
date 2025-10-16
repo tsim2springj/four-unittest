@@ -1,2 +1,3 @@
 Note sprint outcome
 Summarize CI logs
+Record user stories

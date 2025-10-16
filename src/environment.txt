@@ -4,3 +4,4 @@ Collect metrics for dashboard
 Research best practices
 Draft QA strategy
 Draft experiment log
+Update load balancer notes

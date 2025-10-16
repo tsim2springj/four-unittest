@@ -4,3 +4,4 @@ Record user stories
 Record IDS findings
 Review monitoring setup
 Adjust retry logic
+Write press release draft

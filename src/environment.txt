@@ -1,11 +1,1 @@
-Note sprint outcome
-Summarize CI logs
-Record user stories
-Record IDS findings
-Review monitoring setup
-Adjust retry logic
-Write press release draft
-Plan PR campaign
-Update role matrix
-Add alternative approaches
-Record import duties
+Prepare roadmap for Q1

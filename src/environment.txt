@@ -3,3 +3,4 @@ Update alerting rules
 Collect metrics for dashboard
 Research best practices
 Draft QA strategy
+Draft experiment log

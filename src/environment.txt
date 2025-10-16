@@ -1,3 +1,1 @@
-Review MFA adoption
-Update portfolio deck
-Investigate error patterns
+Summarize rollout success

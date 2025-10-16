@@ -1,2 +1,3 @@
 Review performance budgets
 Check breaking changes
+Update logging sinks

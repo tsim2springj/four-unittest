@@ -1,2 +1,3 @@
 Recheck security notes
 Update alerting rules
+Collect metrics for dashboard

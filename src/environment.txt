@@ -1,3 +1,4 @@
 Note sprint outcome
 Summarize CI logs
 Record user stories
+Record IDS findings

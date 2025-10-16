@@ -1,14 +1,1 @@
-Recheck security notes
-Update alerting rules
-Collect metrics for dashboard
-Research best practices
-Draft QA strategy
-Draft experiment log
-Update load balancer notes
-Draft leadership notes
-Draft upsell campaign
-List legal holds
-Refine SEO checklist
-Summarize employee feedback
-List technical debts
-Record CI/CD pipeline
+Note firewall configs

@@ -13,3 +13,4 @@ Summarize product goals
 Summarize workshop notes
 Record HR initiatives
 Record load test data
+Note legal risks

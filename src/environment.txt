@@ -1,3 +1,4 @@
 Note firewall configs
 Summarize validation data
 Analyze user feedback
+Note encryption methods

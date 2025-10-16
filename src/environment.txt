@@ -1,2 +1,3 @@
 Draft failover plan
 Draft container images
+Note interest changes

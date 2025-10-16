@@ -2,3 +2,4 @@ Reevaluate requirements
 Note blocker list
 Record HR initiatives
 Draft celebration notes
+Draft precision notes

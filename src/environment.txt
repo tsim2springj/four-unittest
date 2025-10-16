@@ -1,5 +1,1 @@
-Note trending topics
-Summarize caching results
-List DR procedures
-Improve modularity
-Review logo sketches
+Note sprint outcome

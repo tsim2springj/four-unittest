@@ -1,5 +1,1 @@
-Draft failover plan
-Draft container images
-Note interest changes
-Update outreach contacts
-Draft upsell campaign
+Expand integration tests

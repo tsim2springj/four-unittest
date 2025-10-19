@@ -3,3 +3,4 @@ Prepare roadmap for Q1
 Draft loyalty program
 Collect analytics snapshots
 Summarize KPIs
+Add example for custom configuration setup
